@@ -99,5 +99,10 @@
     "url": "steemdb.online:2001",
     "name": "steem-supporter",
     "location": "Unknown"
-  }
+  },
+  {
+    "url": "seed.symbionts.io:2001",
+    "name": "symbionts",
+    "location": "Germany"
+  } 
 ]
