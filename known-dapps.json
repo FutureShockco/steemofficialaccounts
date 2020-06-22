@@ -206,5 +206,13 @@
     "desc": "Intuitive way to experience Steem",
     "category":"Social",
     "type":"Interface"
-  }
+  },
+  {
+    "account":"steem-supporter",
+    "name": "Open Market",
+    "website": "https://opnmarket.com/",
+    "desc": "Decentralized Marketplace on to of STEEM",
+    "category":"Marketplace",
+    "type":"App"
+  },
 ]
