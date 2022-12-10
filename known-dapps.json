@@ -142,5 +142,13 @@
     "desc": "Vote Automation Service and much more on Steem blockchain",
     "category":"Utility",
     "type":"App"
+  },
+  {
+    "account":"upvu",
+    "name": "UpVu",
+    "website": "https://upvu.org/",
+    "desc": "Social blogging platform",
+    "category":"Social",
+    "type":"Interface"
   }
 ]
