@@ -150,5 +150,13 @@
     "desc": "Social blogging platform",
     "category":"Social",
     "type":"Interface"
+  },
+   {
+    "account":"steempro.com",
+    "name": "SteemPro",
+    "website": "https://www.steempro.com",
+    "desc": "Pro tools for Steem Blockchain",
+    "category":"Social",
+    "type":"App"
   }
 ]
