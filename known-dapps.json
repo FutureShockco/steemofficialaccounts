@@ -43,16 +43,8 @@
     "account":"justyy",
     "name": "Steemyy",
     "website": "https://steemyy.com/",
-    "desc": "Steem Blockchain Tools & APIs",
+    "desc": "Steem Blockchain Tools",
     "category":"Utility",
-    "type":"App"
-  },
-  {
-    "account":"actifit",
-    "name": "Actifit",
-    "website": "https://actifit.io/",
-    "desc": "Rewarding Activity with Crypto",
-    "category":"Health",
     "type":"App"
   },
   {
@@ -64,27 +56,11 @@
     "type":"Interface"
   },
   {
-    "account":"steemcoinpan",
-    "name": "SteemCoinPan",
-    "website": "https://www.steemcoinpan.com/",
-    "desc": "Cryptocurrency Forum",
-    "category":"Social",
-    "type":"App"
-  },
-  {
     "account":"wherein",
     "name": "Wherein",
     "website": "http://www.wherein.io/",
     "desc": "Lifestyle platform",
     "category":"Social",
-    "type":"App"
-  },
-  {
-    "account":"kryptogamers",
-    "name": "Krypto Gamers",
-    "website": "https://kryptogamers.com/",
-    "desc": "Provably Fair Gaming Platform",
-    "category":"Gambling",
     "type":"App"
   },
   {
@@ -112,6 +88,22 @@
     "type":"App"
   },
   {
+    "account":"penguinpablo",
+    "name": "Steem Block Explorer",
+    "website": "https://steemblockexplorer.com/",
+    "desc": "Steem Blockchain Explorer",
+    "category":"Utility",
+    "type":"App"
+  },
+  {
+    "account":"symbionts",
+    "name": "Ecosynthesizer",
+    "website": "https://ecosynthesizer.com/",
+    "desc": "Steem Blockchain Explorer",
+    "category":"Utility",
+    "type":"App"
+  },
+  {
     "account":"fundition",
     "name": "Fundition",
     "website": "https://fundition.io",
@@ -120,12 +112,36 @@
     "type":"App"
   },
   {
-    "account":"dlease",
-    "name": "Dlease",
-    "website": "https://dlease.io/",
-    "desc": "Investment platform",
-    "category":"Utility",
-    "type":"App"
+    "account":"faisalamin",
+    "name": "SteemPro",
+    "website": "https://www.steempro.com/",
+    "desc": "Advanced blogging platform",
+    "category":"Social",
+    "type":"Interface"
+  },
+  {
+    "account":"upvu",
+    "name": "UpVu",
+    "website": "https://upvu.org/",
+    "desc": "Advanced blogging platform",
+    "category":"Social",
+    "type":"Interface"
+  },
+  {
+    "account":"boylikegirl.wit",
+    "name": "boylikegirl",
+    "website": "https://boylikegirl.club/",
+    "desc": "Advanced blogging platform",
+    "category":"Social",
+    "type":"Interface"
+  },
+  {
+    "account":"ericet",
+    "name": "SteemCN",
+    "website": "https://steemcn.xyz/",
+    "desc": "Blogging platform",
+    "category":"Social",
+    "type":"Interface"
   },
   {
     "account":"time.foundation",
@@ -141,22 +157,6 @@
     "website": "https://steem-fanbase.com/",
     "desc": "Vote Automation Service and much more on Steem blockchain",
     "category":"Utility",
-    "type":"App"
-  },
-  {
-    "account":"upvu",
-    "name": "UpVu",
-    "website": "https://upvu.org/",
-    "desc": "Social blogging platform",
-    "category":"Social",
-    "type":"Interface"
-  },
-   {
-    "account":"steempro.com",
-    "name": "SteemPro",
-    "website": "https://www.steempro.com",
-    "desc": "Pro tools for Steem Blockchain",
-    "category":"Social",
     "type":"App"
   }
 ]
