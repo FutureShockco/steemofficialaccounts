@@ -64,14 +64,6 @@
     "type":"App"
   },
   {
-    "account":"epicdice",
-    "name": "Epic Dice",
-    "website": "https://epicdice.io/",
-    "desc": "Decentralised Casino Game",
-    "category":"Gambling",
-    "type":"App"
-  },
-  {
     "account":"steemchiller",
     "name": "SteemWorld",
     "website": "https://steemworld.org/",
