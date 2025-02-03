@@ -7,8 +7,11 @@
     "elipowell":"elisabeth powell",
     "ned":"ned scott",
     "poloniex": "poloniex",
+    "polo-wallet-01": "poloniex",
     "deepcrypto8": "binance",
+    "bdhivesteem": "binance",
     "bittrex": "bittrex",
+    "mxcsteem": "mexc",
     "gopaxkr": "gopax",
     "metalpay": "metal pay",
     "onepagex": "onepagex",
@@ -45,5 +48,6 @@
     "italygame": "italygame",
     "etainclub": "etainclub",
     "pennsif.witness": "pennsif",
-    "upvu.witness": "upvu"
+    "upvu.witness": "upvu",
+    "boylikegirl.wit": "boylikegirl.wit"
 }
